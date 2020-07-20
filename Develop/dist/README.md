@@ -25,7 +25,8 @@
   
   ## Usage 
   
-  Follow the instructions in the following video. [![Watch the video] (./assets/demo.mp4)
+  Follow the instructions in the following video. 
+  [![Watch the video (/assets/img.PNG)](/assets/demo.mp4)
 
   
   
