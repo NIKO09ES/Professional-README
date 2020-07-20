@@ -1,10 +1,10 @@
-# README 
+# README Generator 
   
- [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
   ## Description 
 
-  sad.
+  Use this README.md generator to easily generate profesional README file.On Github, the README file is like the landing page of your website because it is the first thing visitors see. You want to make a good first impression..
   
   
   ## Table of Contents 
@@ -20,30 +20,30 @@
   
   ## Installation
   
-  s
+  Clone the repository.
   
   
   ## Usage 
   
-  s 
+  Follow the instructions in the following video. 
   
   
   ## License
   
-  MIT
+  Licensed under the ISC license.
   
   ## Contributing
   
-  s
+  Pull requests and stars are always welcome. For bugs and feature requests, please create an issue.
   
   ## Tests
   
-  s
+  In the terminal run: node index
 
   ## Questions
 
   If you have any further questions contact me on github or my email:
 
-  [s](https://github.com/s)
+  [NIKO09ES](https://github.com/NIKO09ES)
 
-  [s](mailto:s)
+  [nicolasesquivelruiz@gmail.com](mailto:nicolasesquivelruiz@gmail.com)
