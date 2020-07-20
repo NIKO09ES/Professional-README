@@ -27,7 +27,7 @@
   
   Follow the instructions in the following video. 
 
-  [![Watch the video](./Develop/assets/img.png)](https://drive.google.com/file/d/1yiREvIIL38rz8C9a7fqBBTZYH8nCpAoX/preview)
+  [![Watch the video](https://pluspng.com/img-png/click-here-png-click-here-button-click-here-click-button-web-720.png)](https://drive.google.com/file/d/1yiREvIIL38rz8C9a7fqBBTZYH8nCpAoX/preview)
 
   
   
