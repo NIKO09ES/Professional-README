@@ -41,11 +41,6 @@ const questions = [
         message: "describe usage."
     },
     {
-        type: "input",
-        name: "credits",
-        message: "List your collaborators."
-    },
-    {
 		type    : 'list',
 		name    : 'license',
 		message : 'Which license would you like to use for your project?',
@@ -55,9 +50,9 @@ const questions = [
 			'GGPLv3',
 			'Artistic',
 			'ISC',
-			'Apache 2.0',
+			'Apache',
 			'Boost',
-			'The Unlicense'
+			'None'
 		],
 		default : 0
 	},

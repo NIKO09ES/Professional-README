@@ -1,6 +1,6 @@
 # Professional README Generator Starter Code
   
- [![License](https://img.shields.io/badge/License-The Unlicense-yellow.svg)](https://opensource.org/licenses/The Unlicense)
+ [![License](https://img.shields.io/badge/License-None-yellow.svg)](https://opensource.org/licenses/None)
 
   ## Description 
 
@@ -34,7 +34,7 @@
   
   ## License
   
-  Licensed under the The Unlicense license.
+  Licensed under the None license.
   
   ## Contributing
   
