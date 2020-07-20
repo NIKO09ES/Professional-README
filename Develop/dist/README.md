@@ -1,10 +1,10 @@
-# README Generator 
+# README 
   
- [![License](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+ [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
 
-  profesional README generator .
+  sad.
   
   
   ## Table of Contents 
@@ -20,30 +20,30 @@
   
   ## Installation
   
-  N/A
+  s
   
   
   ## Usage 
   
-  use 
+  s 
   
   
   ## License
   
-  ISC
+  MIT
   
   ## Contributing
   
-  None
+  s
   
   ## Tests
   
-  test
+  s
 
   ## Questions
 
   If you have any further questions contact me on github or my email:
 
-  [NIKO09ES](https://github.com/NIKO09ES)
+  [s](https://github.com/s)
 
-  [nicolas@gmail.com](mailto:nicolas@gmail.com)
+  [s](mailto:s)

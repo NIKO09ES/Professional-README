@@ -8,11 +8,27 @@ const questions = [
         type: "input",
         name: "title",
         message: "What is the title of your project?",
+        validate: titleInput => {
+            if (titleInput) {
+                return true;
+            } else {
+                console.log('please enter the title of your project!');
+                return false;
+            }
+        }
     },
     {
         type: "input",
         name: "description",
-        message: "Write a description."
+        message: "Write a description.",
+        validate: descriptionInput => {
+            if (descriptionInput) {
+                return true;
+            } else {
+                console.log('please enter the description of your project!');
+                return false;
+            }
+        }
     },
     {
         type: "input",
@@ -58,12 +74,28 @@ const questions = [
     {
         type: "input",
         name: "questions1",
-        message: "Enter your GitHub Username?"
+        message: "Enter your GitHub Username?",
+        validate: gitInput => {
+            if (gitInput) {
+                return true;
+            } else {
+                console.log('please enter your GitHub username!');
+                return false;
+            }
+        }
     },
     {
         type: "input",
         name: "questions2",
-        message: "Enter your Email?"
+        message: "Enter your Email?",
+        validate: emailInput => {
+            if (emailInput) {
+                return true;
+            } else {
+                console.log('please enter your Email!');
+                return false;
+            }
+        }
     },
 
 ]
