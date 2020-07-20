@@ -1,10 +1,10 @@
-# README Generator 
+# Professional README Generator Starter Code 
   
- [![License](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+ [![License](https://img.shields.io/badge/License-The Unlicense-yellow.svg)](https://opensource.org/licenses/The Unlicense)
 
   ## Description 
 
-  Use this README.md generator to easily generate profesional README file.On Github, the README file is like the landing page of your website because it is the first thing visitors see. You want to make a good first impression..
+  Use this README.md generator to easily generate profesional README file.On Github, the README file is like the landing page of your website because it is the first thing visitors see. You want to make a good first impression.
   
   
   ## Table of Contents 
@@ -20,21 +20,17 @@
   
   ## Installation
   
-  Clone the repository.
+   Clone the repository.
   
   
   ## Usage 
   
-  Follow the instructions in the following video. 
-
-  [![Watch the video](../assets/img.png)](https://drive.google.com/file/d/1yiREvIIL38rz8C9a7fqBBTZYH8nCpAoX/preview)
-
-  
+  Follow the instructions in the following video.  
   
   
   ## License
   
-  Licensed under the ISC license.
+  Licensed under the The Unlicense license.
   
   ## Contributing
   
