@@ -1,13 +1,10 @@
-// 
-// function to generate markdown for README
-function generateMarkdown(data) {
- return `# ${data.title} 
+# README Generator 
   
- [![License](https://img.shields.io/badge/License-${data.license}-yellow.svg)](https://opensource.org/licenses/${data.license})
+ [![License](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
   ## Description 
 
-  ${data.description}.
+  profesional README generator .
   
   
   ## Table of Contents 
@@ -23,36 +20,30 @@ function generateMarkdown(data) {
   
   ## Installation
   
-  ${data.installation}
+  N/A
   
   
   ## Usage 
   
-  ${data.usage} 
+  use 
   
   
   ## License
   
-  ${data.license}
+  ISC
   
   ## Contributing
   
-  ${data.contributing}
+  None
   
   ## Tests
   
-  ${data.test}
+  test
 
   ## Questions
 
   If you have any further questions contact me on github or my email:
 
-  [${data.questions1}](https://github.com/${data.questions1})
+  [NIKO09ES](https://github.com/NIKO09ES)
 
-  [${data.questions2}](mailto:${data.questions2})
-`;
-}
-
-module.exports = generateMarkdown;
-
-
+  [nicolas@gmail.com](mailto:nicolas@gmail.com)
