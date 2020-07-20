@@ -25,7 +25,9 @@
   
   ## Usage 
   
-  Follow the instructions in the following video. 
+  Follow the instructions in the following video. [![Watch the video] (./assets/demo.mp4)
+
+  
   
   
   ## License
