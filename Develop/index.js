@@ -7,7 +7,7 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "What is the title of your project?",
+        message: "What is the title of your project? (Required)",
         validate: titleInput => {
             if (titleInput) {
                 return true;
@@ -20,7 +20,7 @@ const questions = [
     {
         type: "input",
         name: "description",
-        message: "Write a description.",
+        message: "Write a description of your project. (Required)",
         validate: descriptionInput => {
             if (descriptionInput) {
                 return true;
@@ -69,12 +69,12 @@ const questions = [
     {
         type: "input",
         name: "test",
-        message: "Run test here"
+        message: "write tests options for your application"
     },
     {
         type: "input",
         name: "questions1",
-        message: "Enter your GitHub Username?",
+        message: "Enter your GitHub Username? (Required)",
         validate: gitInput => {
             if (gitInput) {
                 return true;
@@ -87,7 +87,7 @@ const questions = [
     {
         type: "input",
         name: "questions2",
-        message: "Enter your Email?",
+        message: "Enter your Email? (Required)",
         validate: emailInput => {
             if (emailInput) {
                 return true;
