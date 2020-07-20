@@ -27,7 +27,7 @@
   
   Follow the instructions in the following video. 
 
-  [![Watch the video](../assets/img.png)](https://drive.google.com/file/d/1yiREvIIL38rz8C9a7fqBBTZYH8nCpAoX/preview)
+  [![Watch the video](./Develop/assets/img.png)](https://drive.google.com/file/d/1yiREvIIL38rz8C9a7fqBBTZYH8nCpAoX/preview)
 
   
   
